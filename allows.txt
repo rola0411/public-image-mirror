@@ -451,6 +451,8 @@ docker.io/zerotier/*
 docker.io/zhayujie/chatgpt-on-wechat
 docker.io/zilliz/*
 docker.io/zlijingtao/neurobfuscator
+docker.io/jenkins/jenkins
+docker.io/bitnami/*
 gcr.io/**
 ghcr.io/actions/**
 ghcr.io/advplyr/audiobookshelf
